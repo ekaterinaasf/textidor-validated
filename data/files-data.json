@@ -1,5 +1,5 @@
 {
-  "nextId": 5,
+  "nextId": 9,
   "files": [
     {
       "id": 3,
@@ -9,6 +9,18 @@
     {
       "name": "t.tst",
       "id": 4
+    },
+    {
+      "name": "test.txt",
+      "text": "Test file for testing POST request",
+      "options": "rw",
+      "id": 5
+    },
+    {
+      "name": "edited.txt",
+      "text": "Edited text after a PUT request",
+      "options": "rwe",
+      "id": 7
     }
   ]
 }
